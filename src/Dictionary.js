@@ -10,7 +10,7 @@ export default function Dictionary() {
 
   function searchForm(event) {
     event.preventDefault();
-
+    //add documentation form:https://dictionaryapi.dev/
     let apiUrl = `https://api.dictionaryapi.dev/api/v2/entries/en/${keyWord}`;
     axios.get(apiUrl).then(handleResponse);
   }
