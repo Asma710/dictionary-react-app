@@ -7,7 +7,12 @@ function App() {
         <header className="App-header">
           <Dictionary />
         </header>
-        <footer className="App-footer">coded by Asma Mohamed Lamin</footer>
+        <footer className="App-footer">
+          <a href="https://github.com/Asma710/dictionary-react-app">
+            code open sourced
+          </a>
+          coded by Asma Mohamed Lamin
+        </footer>
       </div>
     </div>
   );
