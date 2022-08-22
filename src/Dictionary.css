@@ -1,1 +1,29 @@
+.Dictionary section {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  margin: 20px 0;
+}
+.Dictionary h1 {
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: blueviolet;
+}
+.Dictionary h2 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
 
+.Dictionary input {
+  width: 100%;
+  padding: 15px;
+  border-radius: 7px 4px;
+  border: 1px solid #ddd;
+}
+.Dictionary .hint {
+  font-size: 14px;
+  margin-top: 4px;
+}
