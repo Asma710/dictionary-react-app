@@ -52,7 +52,7 @@ export default function Dictionary(props) {
               defaultValue={props.dictionary}
             ></input>
           </form>
-          <div className="hint">Suggested word:sunset, happy....</div>
+          <div className="hint"> Suggested word: sunset, happy....</div>
         </section>
         <Result allResult={result} />
         <Photos photos={photos} />
