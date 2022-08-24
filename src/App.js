@@ -11,7 +11,7 @@ function App() {
           <a href="https://github.com/Asma710/dictionary-react-app">
             code open sourced
           </a>
-          coded by Asma Mohamed Lamin
+          <strong> Coded by Asma Mohamed Lamin</strong>
         </footer>
       </div>
     </div>
