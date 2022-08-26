@@ -2,3 +2,11 @@
   opacity: 0.5;
   font-size: bold;
 }
+.react-audio-player {
+  width: 190px;
+}
+@media (max-width: 900px) {
+  .react-audio-player {
+    width: 100%;
+  }
+}
