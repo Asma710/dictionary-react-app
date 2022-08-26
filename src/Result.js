@@ -12,7 +12,6 @@ export default function Result(props) {
         </section>
 
         {props.allResult.meanings.map(function (meaning, index) {
-          //return meaning.definitions[0].definition;/
           return (
             <section key={index}>
               <Meaning allMeaning={meaning} />
